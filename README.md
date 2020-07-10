@@ -1,7 +1,7 @@
 # Nomiac
 What is Nomiac? Nomiac is a cryptocurrency-friendly marketplace on Laravel.
 
-![](https://github.com/virtumonde/nomiac/blob/master/demo/1.png)
+![](https://github.com/nomiac-mobile/peralta/blob/master/demo/1.png)
 
 # Features 
 **Vendor accounts**  
