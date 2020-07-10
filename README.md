@@ -4,10 +4,10 @@ What is Nomiac? Nomiac is a cryptocurrency-friendly marketplace on Laravel.
 ![](https://github.com/virtumonde/nomiac/blob/master/demo/1.png)
 
 # Features 
-**Vendor accounts** 
+**Vendor accounts**  
 Any user can register and buy products on the marketplace but in order to create a listing you need to have vendor account status. Vendor status can be obtained in two ways. You can apply and get it for free after admin reviews your request or you can pay for it (the amount is set in admin panel).  
   
-**Autofill**
+**Autofill**  
 Autofill system is created for users that sell many items (cd-keys for example). They can populate field where each line represents one item to be sold. In the case that product is autofilled delivery state is skipped when user purchases a product and he gets what is on the first line automatically.  
   
 **Messaging system**  
